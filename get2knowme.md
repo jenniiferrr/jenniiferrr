@@ -1,6 +1,6 @@
-- 👋 hihi, i’m @jenniiferrr
-- 👀 i’m interested in learning code
-- 🌱 i’m currently learning python
+- 👋 hihi, i’m jenni ! aka niitrojen/nitro-jen
+- 👀 i’m interested in learning code 
+- 🌱 i’m currently learning javascript !
 
 <!---
 jenniiferrr/jenniiferrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
